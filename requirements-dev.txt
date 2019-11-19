@@ -5,7 +5,7 @@ pandas
 pyparsing
 mock
 nose
-pytorch
+torch
 statsmodels
 black
 tqdm
